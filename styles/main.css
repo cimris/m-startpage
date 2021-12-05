@@ -11,6 +11,7 @@ body {
   grid-template: 1fr 500px 500px 1fr;
   grid-template-areas: ". left right .";
   place-items: center;
+  column-gap: 10px;
   min-height: 100vh;
   min-width: 100vh;
 }
@@ -24,8 +25,8 @@ body {
 }
 
 .gif img {
-  max-height: 500px;
-  max-width: auto;
+  max-height: auto;
+  max-width: 500px;
 }
 
 a:link {
