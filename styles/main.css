@@ -6,6 +6,17 @@ body {
   font-size: 11px;
 }
 
+.main-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.gif img {
+  max-height: 400px;
+  max-width: auto;
+}
+
 a:link {
   text-decoration: none;
   color: #f9f9fa;
