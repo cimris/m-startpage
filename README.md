@@ -33,4 +33,4 @@ TODO
 
 - Add randomly chosen image on load.
 - Change blinking area into working search bar.
-- Add further details such as user placeholder pulling from Profile Name, Location Weather, and AQI.
+- Add further details such as user placeholder pulling from Profile Name, Location Weather, and AQI, Customizability?
