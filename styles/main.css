@@ -6,6 +6,19 @@ body {
   font-size: 11px;
 }
 
+a:link {
+  text-decoration: none;
+  color: #f9f9fa;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover {
+  color: #d70022;
+}
+
 .blinking {
   animation: opacity 1s ease-in-out infinite;
   opacity: 1;
