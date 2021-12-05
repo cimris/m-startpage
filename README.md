@@ -21,7 +21,7 @@ To use as a new Tab...
 
 You can use different Add-ons/Extensions for it
 
-- If you use Firefox: [Custom New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/custom-new-tab-page/?src=search)
+- If you use Firefox: [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/h)
 - If you use Chromium (Brave, Vivaldi, Chrome): [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia)
 
 DETAILS
