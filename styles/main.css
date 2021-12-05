@@ -4,13 +4,25 @@ body {
   font-family: "Times New Roman", Times, serif;
   color: #ffffff;
   font-size: 14px;
+  height: 100%;
+  width: 100%;
 }
 
 .main-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
+  display: grid;
+  grid-template: 1fr 400px 400px 1fr;
+  grid-template-areas: ". left right .";
+  place-items: center;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.gif-container {
+  grid-area: left;
+}
+
+.links-container {
+  grid-area: right;
 }
 
 .gif img {
