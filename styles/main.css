@@ -8,7 +8,7 @@ body {
 
 .main-container {
   display: grid;
-  grid-template: 1fr 500px 500px 1fr;
+  grid-template: 1fr 4fr 4fr 1fr;
   grid-template-areas: ". left right .";
   place-items: center;
   column-gap: 10px;
@@ -26,7 +26,7 @@ body {
 
 .gif img {
   max-height: auto;
-  max-width: 500px;
+  max-width: 40vw;
 }
 
 a:link {
