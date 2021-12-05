@@ -10,8 +10,8 @@ Last Update: 4/12/21
 
 To use as a new Home page...
 
-1. Fork this repo
-2. Enable the Github Pages service `Settings > GitHub Pages > Source [main branch] > Save`
+1. Fork this repo.
+2. Enable the Github Pages for your fork at services `Settings > GitHub Pages > Source [main branch] > Save`
 3. Set it as Home Page:
    - Click the menu button. and select Options. Preferences.
    - Click the Home panel.
