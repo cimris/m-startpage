@@ -33,7 +33,11 @@ You can use different Add-ons/Extensions for it
 
 # TODO
 
-- Fix Item Positioning
-- Add randomly chosen image on load / will require Javascript
+- Make links available by button press / JS
+- Refine Item Positioning / CSS
+- Add randomly chosen image on load / JS
 - Change blinking area into working search bar.
-- Add further details such as user placeholder pulling from Profile Name, Location Weather, and AQI, Customizability?
+- User pulls Profile Name (OS or Browser?)
+- Location Weather / APIs
+- AQI / APIs
+- Further user friendly customizability?
