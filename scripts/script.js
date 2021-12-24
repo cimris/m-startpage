@@ -25,6 +25,15 @@ window.addEventListener("keydown", function (event) {
     case "f":
       window.open(freecodecamp.href, "_self");
       break;
+    case "c":
+      window.open(chan.href, "_self");
+      break;
+    case "r":
+      window.open(reddit.href, "_self");
+      break;
+    case "h":
+      this.window.open(hackernews.href, "_self");
+      break;
     default:
       console.log(event.key);
       break;
