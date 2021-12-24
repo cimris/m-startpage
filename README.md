@@ -33,9 +33,9 @@ You can use different Add-ons/Extensions for it
 
 # TODO
 
-- Make links available by button press / JS
 - Refine Item Positioning / CSS
 - Add randomly chosen image on load / JS
+- Change link color on keypress / JS
 - Change blinking area into working search bar.
 - User pulls Profile Name (OS or Browser?)
 - Location Weather / APIs
