@@ -32,7 +32,19 @@ window.addEventListener("keydown", function (event) {
       window.open(reddit.href, "_self");
       break;
     case "h":
-      this.window.open(hackernews.href, "_self");
+      window.open(hackernews.href, "_self");
+      break;
+    case "y":
+      window.open(youtube.href, "_self");
+      break;
+    case "n":
+      window.open(netflix.href, "_self");
+      break;
+    case "p":
+      window.open(plex.href, "_self");
+      break;
+    case "t":
+      window.open(twitch.href, "_self");
       break;
     default:
       console.log(event.key);
