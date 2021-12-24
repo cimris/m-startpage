@@ -2,7 +2,7 @@
 window.addEventListener("keydown", function (event) {
   switch (event.key) {
     case "p":
-      //console.log(event.key);
+      window.open(protonmail.href, "_self");
       break;
     default:
       this.alert("Invalid input.");
