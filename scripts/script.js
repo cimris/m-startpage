@@ -40,7 +40,7 @@ window.addEventListener("keydown", function (event) {
     case "n":
       window.open(netflix.href, "_self");
       break;
-    case "p":
+    case "x":
       window.open(plex.href, "_self");
       break;
     case "t":
