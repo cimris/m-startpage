@@ -43,11 +43,11 @@ window.addEventListener("keydown", function (event) {
     case "x":
       window.open(plex.href, "_self");
       break;
-    case "t":
-      window.open(twitch.href, "_self");
-      break;
     case "m":
       window.open(whatbox.href, "_self");
+      break;
+    case "t":
+      window.open(twitch.href, "_self");
       break;
     default:
       console.log(event.key);
