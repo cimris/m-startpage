@@ -33,10 +33,9 @@ You can use different Add-ons/Extensions for it
 
 ### TODO
 
-- Make Image Array Better
 - Change link color on keypress / JS
 - Change blinking area into working search bar.
 - User pulls Profile Name (OS or Browser?)
-- Location Weather / APIs
-- AQI / APIs
+- Make Image Array Better (Requires Server Side Knowledge)
+- Location, Weather, AQI Status / APIs
 - Further user friendly customizability?

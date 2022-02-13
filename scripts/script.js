@@ -1,6 +1,6 @@
 //My Scripts
 //Random Image Load
-//There Must Be A Better Way To Set Up This Array
+//There Must Be A Better Way To Set Up This Array, Apparently This Requires Server Side Knowledge
 function imageSelect() {
   const imgArea = document.getElementsByClassName(".gif");
   const possibleImage = [
