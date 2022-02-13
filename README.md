@@ -4,7 +4,7 @@ Created a custom browser startpage for fun. I am a fan of pixelart, as well as a
 
 Last Update: 12/02/22
 
-![startpage](images/startpage-preview.gif)
+![startpage](images/hub-example/startpage-preview.gif)
 
 [LIVE PREVIEW](https://cimris.github.io/m-startpage/)
 
