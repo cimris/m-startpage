@@ -1,4 +1,38 @@
 //My Scripts
+//Random Image Load
+//There Must Be A Better Way To Set Up This Array
+function imageSelect() {
+  const imgArea = document.getElementsByClassName(".gif");
+  const possibleImage = [
+    "images/dark-souls-solaire.gif",
+    "images/diapidated-streets.gif",
+    "images/earthbound-moonshen.gif",
+    "images/ffvii-mythril-cave-moonshen.gif",
+    "images/flooded-city.gif",
+    "images/forest-homes.gif",
+    "images/kirokaze-ashes.gif",
+    "images/kirokaze-burning-eye.gif",
+    "images/kirokaze-hangar.gif",
+    "images/kirokaze-lonely-nights.gif",
+    "images/kirokaze-midnight-metal.gif",
+    "images/kirokaze-office-day.gif",
+    "images/kirokaze-photo-group.gif",
+    "images/kirokaze-pilotlink.gif",
+    "images/kirokaze-rainandmetal.gif",
+    "images/kirokaze-ronin.gif",
+    "images/kirokaze-signs.gif",
+    "images/kirokaze-standpoint.gif",
+    "images/kirokaze-stillon.gif",
+    "images/sotn-moonshen.gif",
+    "images/supermetroid-moonshen.gif",
+  ];
+  const imgSrc =
+    possibleImage[Math.floor(Math.random() * possibleImage.length)];
+  document.getElementById("drawn-image").src = imgSrc;
+}
+
+imageSelect();
+//Key Press Sends User To Website
 window.addEventListener("keydown", function (event) {
   switch (event.key) {
     case "p":

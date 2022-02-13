@@ -33,7 +33,7 @@ You can use different Add-ons/Extensions for it
 
 ### TODO
 
-- Add randomly chosen image on load / JS
+- Make Image Array Better
 - Change link color on keypress / JS
 - Change blinking area into working search bar.
 - User pulls Profile Name (OS or Browser?)
