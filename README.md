@@ -2,7 +2,7 @@
 
 Created a custom browser startpage for fun. I am a fan of pixelart, as well as a terminal look, so I tried to combine these design ideas together. This project also gave me an excuse to use CSS Grid finally, as I have mostly used Flexbox since I have started. I'll likely continue to update this as I keep learning and thinking of fun ideas to add.
 
-Last Update: 12/02/22
+Last Update: 21/03/22
 
 ![startpage](images/hub-example/startpage-preview.gif)
 
@@ -23,8 +23,8 @@ To use as a new Tab...
 
 You can use different Add-ons/Extensions for it
 
-- If you use Firefox: [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/h)
-- If you use Chromium (Brave, Vivaldi, Chrome): [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia)
+- Firefox: [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/h)
+- Chromium: [Custom New Tab URL](https://chrome.google.com/webstore/detail/custom-new-tab-url/mmjbdbjnoablegbkcklggeknkfcjkjia)
 
 ## DETAILS
 
