@@ -9,7 +9,6 @@ function imageSelect() {
     "images/earthbound-moonshen.gif",
     "images/ffvii-mythril-cave-moonshen.gif",
     "images/flooded-city.gif",
-    "images/forest-homes.gif",
     "images/kirokaze-ashes.gif",
     "images/kirokaze-burning-eye.gif",
     "images/kirokaze-hangar.gif",
