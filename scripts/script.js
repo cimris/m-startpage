@@ -29,6 +29,7 @@ function imageSelect() {
     "images/neptune-eclipse.gif",
     "images/turnthepage.gif",
     "images/unconsciousness.gif",
+    "images/stargazing.gif",
   ];
   const imgSrc =
     possibleImage[Math.floor(Math.random() * possibleImage.length)];
