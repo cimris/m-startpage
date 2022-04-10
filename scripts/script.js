@@ -64,7 +64,7 @@ window.addEventListener("keydown", function (event) {
     case "f":
       window.open(freecodecamp.href, "_self");
       break;
-    case "c":
+    case "b":
       window.open(chan.href, "_self");
       break;
     case "r":
