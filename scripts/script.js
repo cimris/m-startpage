@@ -30,6 +30,7 @@ function imageSelect() {
     "images/turnthepage.gif",
     "images/unconsciousness.gif",
     "images/stargazing.gif",
+    "images/roseknight.gif",
   ];
   const imgSrc =
     possibleImage[Math.floor(Math.random() * possibleImage.length)];
