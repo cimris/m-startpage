@@ -24,13 +24,10 @@ function imageSelect() {
     "images/kirokaze-stillon.gif",
     "images/sotn-moonshen.gif",
     "images/supermetroid-moonshen.gif",
-    "images/abiogenesis.gif",
-    "images/burundi.gif",
-    "images/neptune-eclipse.gif",
-    "images/turnthepage.gif",
-    "images/unconsciousness.gif",
-    "images/stargazing.gif",
     "images/roseknight.gif",
+    "images/baddaysbadlights.gif",
+    "images/justpassingby.gif",
+    "images/thisonestillworks.gif",
   ];
   const imgSrc =
     possibleImage[Math.floor(Math.random() * possibleImage.length)];
