@@ -59,9 +59,6 @@ window.addEventListener("keydown", function (event) {
     case "o":
       window.open(theodinproject.href, "_self");
       break;
-    case "f":
-      window.open(freecodecamp.href, "_self");
-      break;
     case "b":
       window.open(chan.href, "_self");
       break;
@@ -70,6 +67,15 @@ window.addEventListener("keydown", function (event) {
       break;
     case "h":
       window.open(hackernews.href, "_self");
+      break;
+    case "w":
+      window.open(twitter.href, "_self");
+      break;
+    case "s":
+      window.open(instagram.href, "_self");
+      break;
+    case "k":
+      window.open(tiktok.href, "_self");
       break;
     case "y":
       window.open(youtube.href, "_self");
