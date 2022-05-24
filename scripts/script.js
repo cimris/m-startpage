@@ -74,9 +74,6 @@ window.addEventListener("keydown", function (event) {
     case "s":
       window.open(instagram.href, "_self");
       break;
-    case "k":
-      window.open(tiktok.href, "_self");
-      break;
     case "y":
       window.open(youtube.href, "_self");
       break;
