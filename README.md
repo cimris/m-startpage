@@ -1,8 +1,8 @@
-# Startpage
+# STARTPAGE
 
 Created a custom browser startpage for fun. I am a fan of pixelart, as well as a terminal look, so I tried to combine these design ideas together. This project also gave me an excuse to use CSS Grid finally, as I have mostly used Flexbox since I have started. I'll likely continue to update this as I keep learning and thinking of fun ideas to add.
 
-Last Update: 21/03/22
+Last Update: 25/05/22
 
 ![startpage](images/hub-example/startpage-preview.gif)
 
@@ -31,11 +31,8 @@ You can use different Add-ons/Extensions for it
 - Font and Colorscheme was created referencing the [Firefox Design Docs.](https://design.firefox.com/photon/visuals/color.html#red)
 - I lost the sources on many of the gifs in the files. My apologies to any creators, and if you know the sources, let me know and I will attribute them.
 
-### TODO
+### FINAL UPDATE
 
-- Change link color on keypress / JS
-- Change blinking area into working search bar.
-- User pulls Profile Name (OS or Browser?)
-- Make Image Array Better (Requires Server Side Knowledge)
-- Location, Weather, AQI Status / APIs
-- Further user friendly customizability?
+This is the final update for this startpage. When I started this, I had a rather poor design process - which I later improved through other projects. However, it did achieve it's goal in helping me test some concepts I was learning at the time such as grids and randomized arrays.
+
+I will likely make a new Startpage later more inspired by [Bento](https://github.com/migueravila/Bento), [nightTab](https://github.com/zombieFox/nightTab), [Bonjourr](https://github.com/victrme/Bonjourr), and some other designs I have seen on [r/startpages](https://www.reddit.com/r/startpages/).
